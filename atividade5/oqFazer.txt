@@ -1,0 +1,9 @@
+O que falta fazer:
+
+	Agrupar a rede neural correta aos dados gerados por loop
+	Organizar as funções em classes --opcional
+	Montar uma planilha com as métricas de cada predição realizada em seeds diferentes
+
+
+
+Objetivo: Variar seeds em parâmetros pre-determinados
